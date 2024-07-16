@@ -1,4 +1,6 @@
-[Chatbot](../../Videos/Chatbot.mkv)
+
+https://github.com/user-attachments/assets/93f14bac-0ba3-4711-8258-f5706ee27221
+Uploading Chatbot.mp4…
 
 
 Install all the dependencies by running
@@ -13,5 +15,5 @@ If you need to change your document file, you can change by changing "PDF_PATH" 
 After all the setup you run app by running
     streamlit run app.py
 
-(Wait till embedding is prepared then you can for queries)
+(Wait till embedding is prepared then you can upload your queries)
 
